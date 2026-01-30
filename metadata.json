@@ -1,0 +1,5 @@
+{
+  "name": "App On The Go - Smart Distro",
+  "description": "A modern app distribution platform that uses AI to analyze your APK/IPA files, generate release notes, and provide instant shareable links.",
+  "requestFramePermissions": []
+}
